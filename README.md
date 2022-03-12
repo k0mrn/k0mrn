@@ -56,7 +56,7 @@
         <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Ber4tbey&theme=react&border=00f3e3&stroke=00f3e3&ring=00f3e3&fire=ff8800&hide_border=true&theme=highcontrast"/>
       </a>
       <a href="https://t.me/CrolokOfficial">
-        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Ber4tbey&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=True&locale=en&icon_color=00c1b1&text_color=dddddd&title_color=00f3e3&hide_border=true"/>
+        
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br><br><br>
@@ -66,7 +66,7 @@
       </a>
     </div>
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Ber4tbey&theme=react-dark&bg_color=000000&hide_border=true&color=00f3e3&point=ff8800&line=00f3e3" width="100%"/>
+    
   </p>
 
   <hr>
