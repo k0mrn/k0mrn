@@ -57,11 +57,7 @@
       </a>
       <a href="https://t.me/CrolokOfficial">
         
-      </a>
-    </div>
-    <br><br><br><br><br><br><br><br><br><br><br>
-    <div align=center>
-      <a href="https://t.me/CrolokOfficial">
+      
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ber4tbey&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00f3e3&text_color=dddddd&icon_color=00f3e3&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
       </a>
     </div>
