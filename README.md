@@ -5,7 +5,7 @@
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ber4tbey.Ber4tbey" width="1">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kamran.Kamran" width="1">
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
